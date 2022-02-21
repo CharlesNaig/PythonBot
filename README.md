@@ -1,5 +1,5 @@
- # TAGPUAN PH
-Discord bot for Tagpuan PH
+ # Python Bot
+Discord bot for Python
 
 create a config.py file in the main directory
 ```py
